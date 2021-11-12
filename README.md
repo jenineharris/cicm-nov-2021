@@ -8,8 +8,10 @@ To follow along, you will need to do two things before the workshop:
 
 <ol>
 <li> Install R and R Studio 
+  <ul>
   <li> <b>VERY IMPORTANT</b>: RStudio <b><u>must be at least version 1.4</b></u> to use the functionality we will cover in this workshop; if you have an old version please download and install the latest version with the instructions below
   <li> To check what version of RStudio you have, open it, click on the **Help** menu, and click on **About RStudio**, the version number will be right below the big **RStudio** in the pop-up window
+  </ul>
 <li> Download and save workshop materials
 </ol>
   
