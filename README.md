@@ -1,4 +1,4 @@
-<p align = "center"><img src = "https://cicm.wustl.edu/files/2018/10/Capture-27azh32.png"> 
+<img src = "https://cicm.wustl.edu/files/2018/10/Capture-27azh32.png"> 
 
 # November 2021 Workshop: Reproducible Documents with RMarkdown
 
@@ -8,7 +8,7 @@ To follow along, you will need to do two things before the workshop:
 
 <ol>
 <li> Install R and R Studio 
-  <li> VERY IMPORTANT: RStudio **must be at least version 1.4** to use the functionality we will cover in this workshop; if you have an old version please download and install the latest version with the instructions below
+  <li> <b>VERY IMPORTANT</b>: RStudio <b>must be at least version 1.4<b> to use the functionality we will cover in this workshop; if you have an old version please download and install the latest version with the instructions below
   <li> To check what version of RStudio you have, open it, click on the **Help** menu, and click on **About RStudio**, the version number will be right below the big **RStudio** in the pop-up window
 <li> Download and save workshop materials
 </ol>
