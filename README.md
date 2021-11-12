@@ -2,7 +2,7 @@
 
 # November 2021 Workshop: Reproducible Documents with RMarkdown
 
-### Information and Instructions to Prepare for the Workshops
+### Information and Instructions to Prepare for the Workshop
 
 To follow along, you will need to do two things before the workshop: 
 
