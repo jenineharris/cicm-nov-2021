@@ -1,1 +1,63 @@
-# cicm-nov-2021
+<p align = "center"><img src = "https://cicm.wustl.edu/files/2018/10/Capture-27azh32.png"> 
+
+# November 2021 Workshop: Reproducible Documents with RMarkdown
+
+### Information and Instructions to Prepare for the Workshops
+
+To follow along, you will need to do two things before the workshop: 
+
+<ol>
+<li> Install R and R Studio 
+  <li> VERY IMPORTANT: RStudio **must be at least version 1.4** to use the functionality we will cover in this workshop; if you have an old version please download and install the latest version with the instructions below
+  <li> To check what version of RStudio you have, open it, click on the **Help** menu, and click on **About RStudio**, the version number will be right below the big **RStudio** in the pop-up window
+<li> Download and save workshop materials
+</ol>
+  
+Follow the instructions below to install and download everything you will need.
+
+### Install R and R Studio
+
+R is the software and R Studio is the IDE (Interactive Development Environment) that makes R easier to use. Install R **before** you install R Studio because R Studio will look for R during installation.
+
+First, download and install R:
+
+<ul>
+  <li> Click the <b>download R</b> link on the <a href = "https://www.r-project.org">R Project for Statistical Computing</a> website
+  <li> Choose one of the options from the <a href = "https://cran.r-project.org/mirrors.html">CRAN Mirrors</a> list (it doesn't matter which one!)
+  <li> Click on the download that is appopropriate for your operating system, Linux, Mac, or Windows; if you are not given this option, go back to the <a href = "https://cran.r-project.org/mirrors.html">CRAN Mirrors</a> and try a different one
+  <li> Find the link for <b>install R for the first time</b> and click on it
+  <li> Click on the the <b>Download R</b> link on the page that opens
+  <li> Use the installer that downloads to install R 
+</ul>
+
+Second, download and install R Studio:
+
+<ul>
+  <li> Go to the R Studio <a href = "https://rstudio.com/products/rstudio/download/"> downloads page</a> 
+  <li> Click on the DOWNLOAD button under the RStudio Desktop column on the downloads page
+  <li> Choose the Download for the operating system you have and click on it  
+  <li> Use the installer that downloads to install R Studio 
+</ul>
+
+### Download and Save Workshop Materials
+
+Download the participant files and save them together in the same folder on your computer:
+
+<ul>
+<li> Click on the green Code button toward the top of this GitHub page
+<li> Choose Download ZIP
+<li> Unzip the downloaded zip file and save all the files in a single folder on your computer
+</ul>
+
+### R Resources
+
+Other places to get more instruction or information on R:
+
+<ul>
+  <li> https://swirlstats.com
+  <li> https://tinystats.github.io/teacups-giraffes-and-statistics/index.html
+  <li> https://github.com/Joscelinrocha/Learning-R-resources/wiki#wiki-pages-box
+  <li> Check out the #rstats hashtag on Twitter and follow the people who tweet about #rstats 
+  <li> https://community.rstudio.com
+  <li> ...and so many more!
+</ul>
