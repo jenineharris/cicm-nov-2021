@@ -13,6 +13,7 @@ To follow along, you will need to do two things before the workshop:
     <li> To check what version of RStudio you have, open it, click on the <b>Help</b> menu, and click on <b>About RStudio</b>, the version number will be right below the big **RStudio** in the pop-up window
   </ul>
 <li> Download and save workshop materials
+<li> Install the rmarkdown, tidyverse, have, and table1 packages (if you do not already have them)
 </ol>
   
 Follow the instructions below to install and download everything you will need.
@@ -49,6 +50,16 @@ Download the participant files and save them together in the same folder on your
 <li> Click on the green Code button toward the top of this GitHub page
 <li> Choose Download ZIP
 <li> Unzip the downloaded zip file and save all the files in a single folder on your computer
+</ul>
+
+### Install the rmarkdown, tidyverse, haven, and table1 packages
+
+Open RStudio and follow these instructions :
+
+<ul>
+<li> Click on the Tools menu
+<li> Type rmarkdown, tidyverse, haven, table1 into the dialog box that opens
+<li> Click install (R will do stuff for a while, this might look like errors but is fine)
 </ul>
 
 ### R Resources
