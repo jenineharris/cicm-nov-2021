@@ -27,7 +27,7 @@ First, download and install R:
 <ul>
   <li> Click the <b>download R</b> link on the <a href = "https://www.r-project.org">R Project for Statistical Computing</a> website
   <li> Choose one of the options from the <a href = "https://cran.r-project.org/mirrors.html">CRAN Mirrors</a> list (it doesn't matter which one!)
-  <li> Click on the download that is appopropriate for your operating system, Linux, Mac, or Windows; if you are not given this option, go back to the <a href = "https://cran.r-project.org/mirrors.html">CRAN Mirrors</a> and try a different one
+  <li> Click on the download that is appropriate for your operating system, Linux, Mac, or Windows; if you are not given this option, go back to the <a href = "https://cran.r-project.org/mirrors.html">CRAN Mirrors</a> and try a different one
   <li> Find the link for <b>install R for the first time</b> and click on it
   <li> Click on the the <b>Download R</b> link on the page that opens
   <li> Use the installer that downloads to install R 
@@ -52,13 +52,13 @@ Download the participant files and save them together in the same folder on your
 <li> Unzip the downloaded zip file and save all the files in a single folder on your computer
 </ul>
 
-### Install the rmarkdown, tidyverse, haven, and table1 packages
+### Install the rmarkdown, tidyverse, haven, finalfit, knitr and table1 packages
 
 Open RStudio and follow these instructions :
 
 <ul>
 <li> Click on the Tools menu
-<li> Type rmarkdown, tidyverse, haven, table1 into the dialog box that opens
+<li> Type <b>rmarkdown, tidyverse, haven, table1, finalfit, knitr</b> into the dialog box that opens
 <li> Click install (R will do stuff for a while, this might look like errors but is fine)
 </ul>
 
