@@ -13,7 +13,7 @@ To follow along, you will need to do two things before the workshop:
     <li> To check what version of RStudio you have, open RStudio, click on the <b>Help</b> menu, and click on <b>About RStudio</b>, the version number will be right below the big <b>RStudio</b> in the pop-up window
   </ul>
 <li> Download and save workshop materials
-<li> Install the rmarkdown, tidyverse, haven, and table1 packages (if you do not already have them)
+<li> Install the rmarkdown, tidyverse, haven, finalfit, knitr, and table1 packages (if you do not already have them)
 </ol>
   
 Follow the instructions below to install and download everything you will need.
